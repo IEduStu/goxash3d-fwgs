@@ -61,10 +61,10 @@ github.com/stretchr/testify v1.10.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
 github.com/wlynxg/anet v0.0.5 h1:J3VJGi1gvo0JwZ/P1/Yc/8p63SoW98B5dHkYDmpgvvU=
 github.com/wlynxg/anet v0.0.5/go.mod h1:eay5PRQr7fIVAMbTbchTnO9gG65Hg/uYGdc7mguHxoA=
-github.com/yohimik/goxash3d-fwgs v0.0.0-20250727140444-8037c682bae2 h1:2G2o8Y1357CKYpImOaeGIUMZ3kwUpp2RcdSh4FVHAYU=
-github.com/yohimik/goxash3d-fwgs v0.0.0-20250727140444-8037c682bae2/go.mod h1:XNgQ/O2K1NdjpXAl5jAEiL1CbK3a2/P46QLvuAbpQbg=
-github.com/yohimik/goxash3d-fwgs v0.0.0-20251010075640-817999bcee3e h1:4tUqnLvr7xlN3wOQu8LOpJeXK8dta0uZBNlBvUIbufg=
-github.com/yohimik/goxash3d-fwgs v0.0.0-20251010075640-817999bcee3e/go.mod h1:h9jn+OlmY9RCBqr/j+XsBqfQDXtJX3wyWjHZvvDFHLM=
+github.com/IEduStu/goxash3d-fwgs v0.0.0-20250727140444-8037c682bae2 h1:2G2o8Y1357CKYpImOaeGIUMZ3kwUpp2RcdSh4FVHAYU=
+github.com/IEduStu/goxash3d-fwgs v0.0.0-20250727140444-8037c682bae2/go.mod h1:XNgQ/O2K1NdjpXAl5jAEiL1CbK3a2/P46QLvuAbpQbg=
+github.com/IEduStu/goxash3d-fwgs v0.0.0-20251010075640-817999bcee3e h1:4tUqnLvr7xlN3wOQu8LOpJeXK8dta0uZBNlBvUIbufg=
+github.com/IEduStu/goxash3d-fwgs v0.0.0-20251010075640-817999bcee3e/go.mod h1:h9jn+OlmY9RCBqr/j+XsBqfQDXtJX3wyWjHZvvDFHLM=
 golang.org/x/crypto v0.33.0 h1:IOBPskki6Lysi0lo9qQvbxiQ+FvsCC/YWOecCHAixus=
 golang.org/x/crypto v0.33.0/go.mod h1:bVdXmD7IV/4GdElGPozy6U7lWdRXA4qyRVGJV57uQ5M=
 golang.org/x/crypto v0.43.0 h1:dduJYIi3A3KOfdGOHX8AVZ/jGiyPa3IbBozJ5kNuE04=

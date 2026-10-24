@@ -1,5 +1,7 @@
 # Xash3D-FWGS CGO Wrapper
 
+> Fork of the latest goxash3d-fwgs before deletion with changes so it could be import from this repo in golang
+
 This repository provides a Go (Golang) [CGO](https://pkg.go.dev/cmd/cgo) wrapper for the [Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs) dedicated server. It enables seamless integration of game logic and networking with modern Go applications.
 
 It features Go-idiomatic engine structures, a custom UDP network layer (designed around Go channels), and a modular interface that can be extended to support modern networking stacks such as WebRTC.

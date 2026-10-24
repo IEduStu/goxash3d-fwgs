@@ -1,4 +1,4 @@
-module github.com/yohimik/goxash3d-fwgs/examples/webrtc-cs
+module github.com/IEduStu/goxash3d-fwgs/examples/webrtc-cs
 
 go 1.25.1
 
@@ -10,7 +10,7 @@ require (
 	github.com/pion/rtcp v1.2.15
 	github.com/pion/rtp v1.8.23
 	github.com/pion/webrtc/v4 v4.1.5
-	github.com/yohimik/goxash3d-fwgs v0.0.0-20251011183407-69ea467b4ed0
+	github.com/IEduStu/goxash3d-fwgs v0.0.0-20251011183407-69ea467b4ed0
 )
 
 require (
